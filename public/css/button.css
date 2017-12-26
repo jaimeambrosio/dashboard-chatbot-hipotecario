@@ -1,0 +1,55 @@
+
+.button_ibk_default {
+	font-family: 'omnesregular',
+    display: block;
+    position: relative;
+    font-size: 14px;
+    padding-top: 11px;
+    padding-left: 22px;
+    padding-bottom: 12px;
+    padding-right: 20px;
+    letter-spacing: 0.3px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    text-decoration: none;
+    background-color: #bd004e;
+    height: 34px;
+    color: #ffffff;
+    box-shadow: 2px 2px 0px rgba(0, 0, 0, 0.3);
+    border: none;
+    color: #ffffff;
+
+    &:hover {
+        text-decoration: underline;
+        color: #ffffff;
+    }
+
+    &:active {
+        text-decoration: underline;
+        color: #ffffff;
+    }
+    &:focus {
+        text-decoration: underline;
+        color: #ffffff;
+    }
+
+
+	span {		
+        background-image: url(./images/button_ibk_default);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: 7px auto;
+	    position: absolute;
+	    display: block;
+	    width: 7px;
+	    height: 24px;
+	    right: 25px;
+	    top: 5px;
+	}
+
+}
+
+
+
+
+

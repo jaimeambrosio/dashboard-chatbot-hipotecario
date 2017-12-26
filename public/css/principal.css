@@ -1,0 +1,197 @@
+
+body {
+	/*font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;*/
+    font-family: "omnessemibold";
+	font-size: 12px;	
+	line-height: 1;  
+    background: #FFF;x;*/
+}
+
+.header {
+    padding-top: 20px;/
+    font-size: 11px;
+}
+
+.both {
+    clear: both;
+}
+
+.logo {
+    width: 194px;
+    height: 35px;
+    margin: 5px 0 25px 0;    
+    float: left;
+    cursor: pointer !important;
+    display: inline-block;
+    line-height: 1;
+    vertical-align: middle;
+}
+
+.bluebtn-izq {
+    background: url(../images/bluebtn_izquierda.png) no-repeat left top;
+    width: 8px;
+    height: 33px;
+    float: left;
+}
+
+.boton {
+    padding: 0 3px;
+}
+
+.bluebtn-medio {
+    background: url(../images/bluebtn_medio.png) repeat-x right top;
+    width: auto;
+    float: left;
+    height: 33px;
+}
+
+.bluebtn-der {
+    background: url(../images/bluebtn_derecha.png) no-repeat right top;
+    width: 9px;
+    height: 33px;
+    float: left;
+    overflow: hidden;
+}
+
+a.boton {
+    line-height: 33px !important;
+    color: #ffffff !important;
+    font-size: 12px;
+    cursor: pointer;
+    text-align: center;
+    padding: 0 3px !important;
+    background: none !important;
+    margin: 0 !important;
+}
+
+.links {
+    margin: 0 auto;
+    width: 940px;
+    text-align: center;
+}
+
+.links a {
+    text-decoration: underline;
+    vertical-align: middle;
+}
+
+article, aside, footer, header, hgroup, main, nav, section {
+    display: block;
+}
+
+.ibk_form-group {
+    margin-bottom: 20px;
+    position: relative;
+}
+
+.ibk_input_tp0 {
+    display: block;
+    width: 100%;
+    height: 38px;
+    border-top: 1px solid #bebebe;
+    border-right: 1px solid #bebebe;
+    border-bottom: 1px solid #bebebe;
+    border-left: 7px solid #009b3a;
+    /* border-left: 7px solid #ffa200; */
+    padding-left: 6px;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: normal;
+    border-radius: 0;
+    background-color: #ffffff;
+}
+
+input {    
+    line-height: inherit;
+}
+
+.form_error_message {
+    position: absolute;
+    left: 0;
+    bottom: -16px;
+}
+
+ .form_container {
+ 	margin: 0 auto;
+    width: 35%;
+    height: 400px;    
+    position: relative;
+    padding-top: 150px;    
+    max-width: 520px;
+}
+
+.copyright{
+  text-align:center;
+}
+
+#Ingresar{
+	margin:0 auto;
+	position: center;
+}
+
+p{
+	font-family: 'omnessemibold';
+}
+
+.text-muted{
+  font-family: 'omnessemibold';
+  color:#0060A9;
+  text-align:center; 
+  padding-bottom: 20px;
+}
+
+ .main-form{
+  margin-top: 70px;
+}
+
+
+
+
+h1.title { 
+  font-size: 50px;
+  font-family: 'Passion One', cursive; 
+  font-weight: 400; 
+}
+
+hr{
+  width: 10%;
+  color: #fff;
+}
+
+.form-group{
+  margin-bottom: 15px;
+}
+
+label{
+  margin-bottom: 15px;
+}
+
+input,
+input::-webkit-input-placeholder {
+    font-size: 11px;
+    padding-top: 3px;
+}
+
+.main-login{
+  background-color: #fff;
+    /* shadows and rounded borders */
+   
+
+}
+
+.main-center{
+  margin-top: 30px;
+  margin: 0 auto;
+  max-width: 330px;
+    padding: 40px 40px;
+  }
+  .form-login{
+    padding-top: 50px;
+  }
+  #footer{
+    margin-top: 40px;
+  }
+
+
+
+

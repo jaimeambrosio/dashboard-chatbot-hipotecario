@@ -1,0 +1,7 @@
+---
+applications:
+- name:    dashboard-ibk
+  host:    dashboard-ibk
+  memory:  128M
+  services:
+    - BD-sunat-alertas
